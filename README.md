@@ -3,7 +3,7 @@
 The code in this repository is meant for setting up a full K8s environment meant for home study.
 
 System requirements:
-For just only a K8s environment, it is necessary to have a system with atleast 6 to 8GB of memory and 6 CPU cores. 
+For just only a K8s environment, it is necessary to have a system with atleast 6 to 8GB of memory and a lot of CPU cores. 
 
 For making this work:
 - Windows 11 professional (Windows 10 professional should also do the job):
